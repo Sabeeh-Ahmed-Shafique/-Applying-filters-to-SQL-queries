@@ -21,11 +21,11 @@ I performed the following tasks using SQL filters:
 
 - Retrieve employees in Finance or Sales.
 
-  <img width="780" height="80" alt="PA2-S5" src="https://github.com/user-attachments/assets/1250ce28-03b1-4121-b7b3-5f2dd305f365" />
+  <img width="740" height="80" alt="PA2-S5" src="https://github.com/user-attachments/assets/1250ce28-03b1-4121-b7b3-5f2dd305f365" />
 
 - Retrieve all employees not in IT.
 
-  <img width="736" height="86" alt="PA2-S6" src="https://github.com/user-attachments/assets/5ffa5cf8-5a19-405e-b77a-4c78ee16a20f" />
+  <img width="680" height="80" alt="PA2-S6" src="https://github.com/user-attachments/assets/5ffa5cf8-5a19-405e-b77a-4c78ee16a20f" />
 
 
 ### Summary
