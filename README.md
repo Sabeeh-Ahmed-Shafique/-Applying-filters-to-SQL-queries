@@ -5,23 +5,23 @@ I performed the following tasks using SQL filters:
 
 - Retrieve after hours failed login attempts.
 
-  <img width="687" height="121" alt="PA2-S1" src="https://github.com/user-attachments/assets/55c3ad98-a791-46e2-8855-46a8656c2017" />
+  <img width="600" height="110" alt="PA2-S1" src="https://github.com/user-attachments/assets/55c3ad98-a791-46e2-8855-46a8656c2017" />
 
 - Retrieve login attempts on specific dates.
 
-  <img width="833" height="86" alt="PA2-S2" src="https://github.com/user-attachments/assets/fca6eb11-6d34-417b-8bc0-6c8b77a42de3" />
+  <img width="780" height="80" alt="PA2-S2" src="https://github.com/user-attachments/assets/fca6eb11-6d34-417b-8bc0-6c8b77a42de3" />
 
 - Retrieve login attempts outside of Mexico.
 
-  <img width="662" height="87" alt="PA2-S3" src="https://github.com/user-attachments/assets/0c400517-74a7-4f2a-9482-667f7ed36728" />
+  <img width="600" height="80" alt="PA2-S3" src="https://github.com/user-attachments/assets/0c400517-74a7-4f2a-9482-667f7ed36728" />
 
 - Retrieve employees in Marketing.
 
-  <img width="716" height="86" alt="PA2-S4" src="https://github.com/user-attachments/assets/b407698a-5ba2-45f1-a75b-477566c15278" />
+  <img width="650" height="80" alt="PA2-S4" src="https://github.com/user-attachments/assets/b407698a-5ba2-45f1-a75b-477566c15278" />
 
 - Retrieve employees in Finance or Sales.
 
-  <img width="742" height="82" alt="PA2-S5" src="https://github.com/user-attachments/assets/1250ce28-03b1-4121-b7b3-5f2dd305f365" />
+  <img width="780" height="80" alt="PA2-S5" src="https://github.com/user-attachments/assets/1250ce28-03b1-4121-b7b3-5f2dd305f365" />
 
 - Retrieve all employees not in IT.
 
@@ -34,4 +34,7 @@ OR, and NOT operators to filter for the specific information needed for each tas
 
 ---
 
+[Apply Filters to SQL queries.DOCX](https://github.com/Sabeeh-Ahmed-Shafique/-Applying-filters-to-SQL-queries/raw/814c4f0dbd3fd20c6d55b9f0fc4ffb1852e7ac38/Apply%20filters%20to%20SQL%20queries.docx)
 
+
+To view the complete document, please consider the above link.
